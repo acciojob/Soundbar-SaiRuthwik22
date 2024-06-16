@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+#buttons{
+
+    background-color:#a164df;
+
+    height:200px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-around;
+}
+
+.btn,.stop{
+
+    color:white;
+
+    background-color:#663399;
+
+    padding:15px 25px;
+
+    border:0px;
+
+    border-radius:5px;
+}
+
+sounds{
+
+    display:none;
+}
